@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.WebHooks;
 using Newtonsoft.Json.Linq;
 
-namespace Chkpnt.Api.Controllers
+namespace ChkpntApi.Controllers
 {
     public class GitHubWebhookController : ControllerBase
     {

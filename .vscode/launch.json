@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Chkpnt.Api/bin/Debug/netcoreapp2.0/Chkpnt.Api.dll",
+            "program": "${workspaceFolder}/ChkpntApi/bin/Debug/netcoreapp2.0/ChkpntApi.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Chkpnt.Api",
+            "cwd": "${workspaceFolder}/ChkpntApi",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart",
             "launchBrowser": {
